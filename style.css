@@ -1,0 +1,149 @@
+.fblogo{
+    width: 250px;
+    margin-left: 265px;
+    margin-top: 200px;
+    position: absolute;
+}
+
+.d1{
+    margin-left: 265px;
+    margin-top: 238px;
+    font-size: 175%;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+}
+
+.body{
+  background-color: rgb(228, 233, 236);
+ 
+
+}
+
+.d2{
+
+    margin-left: 850px;
+    margin-top: 150px;
+    height: 350px;
+    width: 390px;
+    position: absolute;
+    background-color:white;
+    padding-top: 30px;
+    padding-left: 30px;
+    border-radius: 15px;
+    box-shadow: 0px 0px 10px 3px rgb(192, 192, 192);
+}
+
+.text1{
+
+    width: 315px;
+    height: 45px;
+    border-radius: 5px;
+    border-style:solid ;
+    border-color: rgb(231,231,231);
+    padding-left: 35px;
+    font-size: 16px;
+    font-family:"Arial" ;
+
+}
+
+.text2{
+    width: 315px;
+    height: 45px;
+    border-radius: 5px;
+    border-style:solid ;
+    border-color: rgb(231,231,231);
+    padding-left: 35px ;
+    font-size: 16px;
+    font-family:"Arial" ;
+    margin-top: 10px;
+
+}
+
+.button{
+    margin-top: 10px;
+    width: 354px;
+    height: 45px;
+    background-color: #1877f2;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    font-weight: bold;
+    font-family:"Arial" ;
+    font-size: 25px;
+    cursor: pointer;
+}
+
+.forgtn{
+    margin-top: 20px;
+    margin-left: 100px;
+    position: absolute;
+    
+}
+
+.line{
+    border-top: 1px solid #222;
+    margin-top: 25px;
+    opacity: 0.2;
+    width: 350px;
+    margin-left: -100px;
+    
+    
+    
+}
+
+.button2{
+    background-color: #42b72a;
+    margin-top: 30px;
+    margin-left: -20px;
+    height: 50px;
+    width: 220px;
+    border-radius: 10px;
+    color: white;
+    font-weight:bold ;
+    font-family:"Arial" ;
+    font-size: large;
+    cursor: pointer;
+}
+
+.p{
+    margin-top: 230px;
+    margin-left: 35px;
+    font-size: 17px;
+}
+
+.links{
+
+
+    background-color: white;
+    margin-left: -870px;
+    width: 1315px;
+   height: 100px;
+    margin-top: 180px;
+  padding: 100px;
+  margin-left: -885px;
+  
+
+
+   
+
+  
+}
+ul{
+    margin: 0;
+    padding: 0;
+   
+}
+
+ul li{
+    font-size: 11px;
+    display: inline-block;
+    color: #8a8d91;
+    padding-right: 1ch;
+   
+}
+
+.shit{
+    padding: 100px;
+    height: 100px;
+    margin-top: -100px;
+}
